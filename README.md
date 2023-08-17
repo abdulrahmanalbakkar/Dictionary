@@ -12,5 +12,5 @@ A mobile dictionary translating English to Turkish, with examples, favorites, an
 2. Open in Android Studio and run.
 
 ## Contact
-[Abdulrahman Albakkar] - [albakkar997@gmail.com]  
+Abdulrahman Albakkar - albakkar997@gmail.com
 Project Link: [https://github.com/abdulrahmanalbakkar/Dictionary](https://github.com/abdulrahmanalbakkar/Dictionary)
